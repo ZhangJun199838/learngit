@@ -1,1 +1,2 @@
-Tis is a text note.
+This is a text note.
+Now we try to creat a new line.
